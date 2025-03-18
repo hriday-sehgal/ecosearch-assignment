@@ -1,5 +1,5 @@
 {
-  "name": "my-v0-project",
+  "name": "my-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,7 @@
     "@tailwindcss/cli": "^4.0.14",
     "autoprefixer": "^10.4.21",
     "lucide-react": "^0.482.0",
+    "node-mailjet": "^6.0.8",
     "postcss": "^8.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

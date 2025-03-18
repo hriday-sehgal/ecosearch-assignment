@@ -2,6 +2,7 @@ import type { Handler } from "@netlify/functions"
 import { Resend } from "resend"
 
 const resend = new Resend(process.env.RESEND_API_KEY)
+const ADMIN_EMAIL = process.env.ADMIN_EMAIL 
 
 const handler: Handler = async (event) => {
   // Only allow POST requests
@@ -34,7 +35,7 @@ const handler: Handler = async (event) => {
     // Send email to admin
     await resend.emails.send({
       from: "EcoSearch Waitlist <onboarding@resend.dev>",
-      to: "hriday.career@gmail.com",
+      to: ADMIN_EMAIL, 
       subject: "New Waitlist Signup",
       html: `
         <h1>New Waitlist Signup</h1>
@@ -79,4 +80,3 @@ function isValidEmail(email: string): boolean {
 }
 
 export { handler }
-

@@ -6,13 +6,15 @@ EcoSearch is a Green AI-powered search engine designed to combat climate change 
 
 The homepage includes:
 
-- A Hero section introducing EcoSearch
+- **A Navbar** for easy navigation
+  
+- **A Hero** section introducing EcoSearch
 
-- A Why Choose EcoSearch section with four key features
+- **A Why Choose EcoSearch** section with four key features
 
-- A Join Waitlist form integrated with Mailjet for email notifications
+- **A Join Waitlist form** integrated with Mailjet for email notifications
 
-- A Footer with relevant links
+- **A Footer** with relevant links
 
 ## Features
 

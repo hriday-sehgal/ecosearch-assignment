@@ -60,7 +60,7 @@ const Navbar = () => {
               Join Waitlist
             </a>
             <a
-              href="#about"
+              href="#"
               className="block px-3 py-2 text-gray-700 hover:text-green-600 hover:bg-gray-50 rounded-md"
               onClick={() => setIsMenuOpen(false)}
             >

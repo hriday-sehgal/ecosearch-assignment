@@ -33,7 +33,7 @@ const Hero = () => {
               <div className="w-3 h-3 rounded-full bg-green-500"></div>
               <div className="ml-4 bg-white rounded-full flex-1 p-2">
                 <div className="flex items-center">
-                  <span className="text-green-600 font-medium">ecosearch.co</span>
+                  <span className="text-green-600 font-medium">www.ecosearch.co</span>
                 </div>
               </div>
             </div>

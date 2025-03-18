@@ -133,4 +133,12 @@ For any queries, reach out at
 
 **This project was created as part of the hiring process for the Full Stack Intern position at EcoSearch.**  
 
+## Copyright Notice
+
+Copyright © 2025 Hriday Sehgal. 
+
+This project and its source code are the intellectual property of Hriday Sehgal. Unauthorized copying, modification, distribution, or use of this code without explicit permission is strictly prohibited. All rights reserved.
+
+
+
 
